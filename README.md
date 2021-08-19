@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aditya-0001
-- 👀 I’m interested in python,java,c,c++,ML,AI.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate with anyone who is having knowledge more then me.
+- 👀 I’m interested in Web-devlopment, A.I, and Javascript.
+- 🌱 I’m currently learning front-end devlopment.
+- 💞️ I’m looking to collaborate with someone who is full-stack web-devloper .
 - 📫 Mail me :-adityasohal4400@gmail.com
 
 <!---
